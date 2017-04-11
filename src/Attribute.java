@@ -1,10 +1,9 @@
 /**
- * 
- * 
+ *
  * @author Tzimotoudis Panagiotis
  * @authos Tziokas George
  * @version 1.0
- * @since 2015-03-27
+ * 
  */
 
 package xml_parser;
